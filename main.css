@@ -1,0 +1,87 @@
+html {
+
+font-family: 'Roboto', sans-serif;
+}
+
+#container {
+margin: 0 auto;
+font-size: 20px;
+line-height: 26px;
+}
+/* Gehaktbal titel & text */
+.hoofdtitel {
+    font-size: 36px;
+    line-height: 36px;
+    }
+#hoofdtext {
+font-size: 24px;
+line-height: 32px;
+}
+/* Recept & lijst */
+#receptTitle {
+    margin: 40px;
+    font-size: 32px;
+    line-height: 32x;
+}
+#list li {
+margin: 10px;
+}
+/* Bereidingswijze & instructies */
+#firstTitle {
+    font-size: 36px;
+    line-height: 36px;
+}
+#voorbereiden li {
+
+font-size: 20px;
+line-height: 26px;
+margin: 10px;
+font-size: 20px;
+line-height: 26px;
+}
+#border {
+margin: 0 auto;
+width: 640px;
+}
+img {
+margin: 20px;
+}
+#tip {
+    width: 800px;
+    border: 0px solid;
+    background-color: def6ed;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 25px;
+    line-height: 5px;
+}
+#navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+#navbar li {
+    float: left;
+}
+#navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#navbar li a:hover {
+    background-color: #111;
+}
+#pompoensoep {
+
+width: 100%;
+}
+#trifle {
+width: 100%;
+
+}
